@@ -1,0 +1,96 @@
+body {
+    margin: 0px;
+    font-family: 'Nunito', sans-serif;
+    background: #220D36;
+}
+
+tr {
+    height: 50px;
+}
+
+td {
+    border-bottom: 1px solid #F1E4FF;
+    padding-left: 15px;
+    color: #F1E4FF;
+}
+
+.box1 {
+    padding: 3px;
+    height: 45px;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.box2 {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.box2-1 {
+
+    padding-left: 10px;
+    position: absolute;
+    height: 500px;
+    top: 50px;
+    background-image: linear-gradient(to right ,rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+}
+
+.box2-2 {
+    padding-left: 15px;
+    height: 40px;
+    background: rgba(0, 0, 0, 0);
+}
+
+.box3 {
+    padding: 5px;
+}
+
+.button {
+    width: 100px;
+    height: 45px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #411A67;
+    box-shadow: 5px 5px 3px #1E0B30;
+}
+
+.font-color1 {
+    color: #F1E4FF;
+}
+
+.font-style1 {
+    font: lucida;
+}
+
+.fontsize-title {
+    font-size: 60px;
+}
+
+.fontsize-text {
+    font-size: 30px;
+}
+
+.banner {
+    height: 500px;
+    width: 100%;
+}
+
+.center {
+    margin: 10px auto 20px;
+    display: block;
+}
+
+.table-margin {
+    margin-left: 20%;
+
+}
+
+.table-border {
+    border: 10px white;
+}
+
+.row-color {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+#border-clear {
+    border-bottom: 1px;
+}
